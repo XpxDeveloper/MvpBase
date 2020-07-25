@@ -1,5 +1,5 @@
 rootProject.name='MvpBase'
 include ':app'
-include ':libwidget'
+include ':LibWidget'
 include ':LibCore'
-include ':libbase'
+include ':LibBase'
