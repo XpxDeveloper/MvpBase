@@ -1,9 +1,12 @@
 package com.xpxcoder.mvpbase;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
+
+/**
+ * @author XPSoft
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override

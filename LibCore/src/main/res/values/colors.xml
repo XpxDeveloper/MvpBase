@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fdce53</color>
+    <color name="colorPrimaryDark">#fdce53</color>
+    <color name="colorAccent">#fdce53</color>
+
+    <!--通用颜色-->
+    <color name="white">#FFFFFF</color>
+    <color name="c_black_323232">#323232</color>
+    <color name="ct_black_cc323232">#CC323232</color>
+    <color name="c_black_212837">#212837</color>
+
+    <color name="c_gray_c9d7ed">#C9D7ED</color>
+    <color name="c_gray_989898">#989898</color>
+    <color name="c_gray_ededee">#EDEDEE</color>
+    <color name="c_gray_ebf1fe">#EBF1FE</color>
+    <color name="c_gray_f6f6f6">#F6F6F6</color>
+    <color name="c_gray_FCFCFC">#FCFCFC</color>
+    <color name="c_gray_c1c1c1">#C1C1C1</color>
+    <color name="c_gray_d8d8d8">#D8D8D8</color>
+    <color name="c_gray_ebebeb">#EBEBEB</color>
+    <color name="c_gray_FFFEFF">#FFFEFF</color>
+
+    <color name="c_green_61ac31">#61AC31</color>
+    <color name="c_red_e84936">#E84936</color>
+
+    <color name="c_blue_3c73f1">#3C73F1</color>
+    <color name="c_blue_95c3f5">#95C3F5</color>
+    <color name="c_blue_3d99fc">#3D99FC</color>
+    <color name="c_blue_94b0f0">#94B0F0</color>
+
+
+    <color name="ct_background_80323232">#80323232</color>
+
+</resources>
