@@ -32,7 +32,7 @@ import javax.inject.Inject;
  * CreateTime: 2020-07-25 21:41(星期六)
  * Description:
  * ************************************************************/
-public abstract class AbstractActivity extends RxAppCompatActivity implements IBaseView {
+public abstract class AbstractRxActivity extends RxAppCompatActivity implements IBaseView {
 
     protected final LifecycleProvider<ActivityEvent> mProvider = this;
     protected final String TAG = getClass().getSimpleName();
